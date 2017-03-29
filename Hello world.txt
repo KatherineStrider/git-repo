@@ -1,4 +1,5 @@
-﻿print("Hello world");
+print("Hello world");
 print("Жуть");
 print("а вот это оставим");
 print("New");
+print("Это новая ветка, понимаешь?")
